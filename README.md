@@ -1,2 +1,2 @@
 # scraping
-a assignment for scraping website data.
+an assignment for scraping website data.
