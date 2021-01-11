@@ -1,2 +1,2 @@
 # scraping
-an assignment for scraping website data.
+Python based web crawler for scraping data
